@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: to_dos_db
+  encoding: utf8
+  pool: 5
+
+production:
+  adapter: postgresql
+  database: to_dos_db
+  encoding: utf8
+  pool: 5
